@@ -1,0 +1,16 @@
+.r-input{
+	margin-bottom: 10px;
+}
+
+.form-container{
+	margin-top: 40px;
+}
+
+.errors{
+	position: fixed;
+	opacity: 1;
+}
+
+#preview, #prev_h{
+	display: none;
+}
